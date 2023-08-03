@@ -13,7 +13,7 @@
   
   <h6>----//----//----//----//----//----//----//----</h6>
 
-  <br><h4>Algumas das linguagens na quais eu tenho experiência!!</h4>
+  <h4>Algumas das linguagens na quais eu tenho experiência!!</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
