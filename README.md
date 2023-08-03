@@ -1,10 +1,13 @@
-<h1>Venha me conhecer!!</h1>
+<h1>Me chamo Gabriel Rodolfo Rabello</h1>
 
 <div>
-  <h4>Prazer, me chamo Gabriel Rodolfo Rabello</h4>
-  <h5>📚 Técnico em Informática(2ªFase)</h5>
+  <h4>👋 Venha me conhecer melhor!!</h4><br>
+  <h5>📚 Técnico em Informática (2ªFase)</h5>
+  <h5>📣 Ingles Intermediário</h5>
+  <h5>Ingles Intermediário</h5>
   <h5>🎮 de Estratégia</h5>
   <h5>🥇 Imperator Rome</h5>
+  <h5></h5>
 
 
 
