@@ -6,9 +6,9 @@
   <h5>📣 Ingles Intermediário</h5>
   <h6>----//----//----//----//----//----//----//----</h6>
   <h4>🏆 Meus Hobies</h4>
-  <h5>🎮 de Estratégia</h5>
+  <h5>🎮 De Estratégia</h5>
   <h5>🥇 "Imperator Rome"</h5>
-  <h5>📖 mangás</h5>
+  <h5>📖 Mangás</h5>
 
 
 
