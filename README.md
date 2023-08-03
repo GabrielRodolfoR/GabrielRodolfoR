@@ -1,9 +1,12 @@
 <h1>Prazer, Gabriel Rodolfo Rabello</h1>
 
 <div>
-  <h4>👋 Venha me conhecer melhor!!</h4><br>
+  <h4>👋 Venha me conhecer melhor!!</h4>
+  <h6>----//----//----//----//----//----//----//----</h6>
+  
   <h5>📚 Técnico em Informática (2ªFase)</h5>
   <h5>📣 Ingles Intermediário</h5>
+  
   <h6>----//----//----//----//----//----//----//----</h6>
   
   <h4>🏆 Meus Hobies</h4>
