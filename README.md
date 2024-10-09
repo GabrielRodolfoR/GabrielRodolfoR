@@ -4,15 +4,8 @@
   <h4>👋 Venha me conhecer melhor!!</h4>
   <h6>----//----//----//----//----//----//----//----</h6>
   
-  <h5>📚 Técnico em Informática (3ªFase)</h5>
+  <h5>📚 Técnico em Informática (4ªFase)</h5>
   <h5>📣 Ingles Intermediário</h5>
-  
-  <h6>----//----//----//----//----//----//----//----</h6>
-  
-  <h4>🏆 Meus Hobies</h4>
-  <h5>🎮 De Estratégia</h5>
-  <h5>🥇 "Imperator Rome"</h5>
-  <h5>📖 Mangás</h5>
   
   <h6>----//----//----//----//----//----//----//----</h6>
 
