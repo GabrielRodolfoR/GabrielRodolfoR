@@ -28,3 +28,9 @@
 ## 📫 Contato
 - Email: gabrielrodolforabello@gmail.com  
 - LinkedIn: [linkedin.com/in/gabriel-rodolfo-rabello](https://www.linkedin.com/in/gabriel-rodolfo-rabello-11b01b25a/)
+
+## 📚 Aprendendo
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" style="margin-right: 8px;" />
+  Java
+</span>
