@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRodolfoR&layout=compact)
 
 ## 🛠️ Projetos em Destaque
-- [**Fino Trato**](https://github.com/GabrielRodolfoR/fino-trato): Projeto de TCC: Loja virtual com sistema de ERP integrado. Tecnologias: PHP, HTML, CSS, JS, SQL.
+- [**Fino Trato**](https://github.com/GabrielRodolfoR/fino-trato): Projeto de TCC: Loja virtual com sistema de ERP integrado. Tecnologias: PHP, HTML, CSS, JS, MYSQL.
 
 ## 💻 Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)
